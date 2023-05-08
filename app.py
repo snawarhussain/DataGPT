@@ -86,7 +86,7 @@ def save_history(history):
 def create_agent(df):
     
     memory = ConversationBufferMemory(memory_key="chat_history")
-    agent =  create_pandas_dataframe_agent(OpenAI(temperature=0.5), df, verbose=True, return_intermediate_steps=False,
+    agent =  create_pandas_dataframe_agent(OpenAI(temperature=0), df, verbose=True, return_intermediate_steps=False,
                                               memory=memory)
     return agent
 def main():
