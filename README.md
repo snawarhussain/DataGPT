@@ -14,7 +14,7 @@ enhance the AI's knowledge and context, enabling more meaningful and data-driven
 🚀 **Installation and Setup**
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-chat-assistant.git
+git clone https://github.com/snawarhussain/DataGPT.git
 ```
 2. Navigate to the project directory:
 ```bash
