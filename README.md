@@ -18,7 +18,7 @@ git clone https://github.com/yourusername/ai-chat-assistant.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd ai-chat-assistant
+cd DataGPT
 ```
 3. Install the required packages:
 ```bash
